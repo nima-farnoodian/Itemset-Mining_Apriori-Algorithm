@@ -16,7 +16,7 @@ can handle the largest data-set with a lower threshold within a reasonable time.
 Note: Besides the original Apriori algorithm and the Apriori Graph algorithm, I also implemented a **fast implementation of the eclat algorithm**. See check_miner.py to realize how to work with the itemest miners.
 
 # Report 
-- You will find the report that includes the implementation details and experimental results [here](PatternMining_Proj1.pdf).
+- You will find the report that includes the implementation details and the experimental results [here](PatternMining_Proj1.pdf).
 # Dataset
 
 Your input dataset should be of the following format:
